@@ -1,0 +1,8 @@
+BGM
+ステルス		:https://dova-s.jp/bgm/play10355.html
+Pseudoscience		:https://dova-s.jp/bgm/play15950.html
+スチームエンジン       :https://dova-s.jp/bgm/play5264.html
+
+効果音
+決定４			:https://www.deepl.com/ja/translator#ja/en-us/%E6%B1%BA%E5%AE%9A
+決定３			:https://www.deepl.com/ja/translator#ja/en-us/%E6%B1%BA%E5%AE%9A
